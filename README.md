@@ -1,4 +1,5 @@
 # DS3231-extension
+这个扩展，用于IIC接口的计时器
 This extension supports the DS3231 (see [product page](https://www.maximintegrated.com/en/products/analog/real-time-clocks/DS3231.html)) and provides several functions for setting and reading:
 * the Real Time Clock (RTC) time registers
 * the 2 Alarm register sets (times and modes)
